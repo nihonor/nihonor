@@ -1,0 +1,27 @@
+body{ 
+    background-image: url(azah.jpeg);
+}
+.p1{text-align: center;font-size: 100px;color:rebeccapurple;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.img1{
+    width: 300px; height: 300px;
+    border-radius: 500px;
+    display: flex;
+    margin-left: 770px;
+    
+    
+}
+.img2{
+    width: 300px; height: 300px;
+    border-radius: 500px;
+    display: flex;
+    margin-top: -430px;
+    margin-left: 90px;
+}
+PRE{font-size: 50px;color: chartreuse;}
+.img3{ width: 300px; height: 300px;
+    border-radius: 500px;
+    display: flex;
+justify-content:left ;
+margin-left: 440px;margin-top: -400px;
+}
+.p2{color:pink;}
