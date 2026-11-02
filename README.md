@@ -59,13 +59,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nihonor&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nihonor&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA" alt="GitHub stats for nihonor"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nihonor&theme=github_dark">
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nihonor&theme=github" alt="GitHub stats for nihonor"/>
   </picture>
-  &nbsp;&nbsp;
+  &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nihonor&layout=compact&langs_count=8&hide_border=true&hide=html,css,scss,batchfile,makefile,dockerfile&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihonor&layout=compact&langs_count=8&hide_border=true&hide=html,css,scss,batchfile,makefile,dockerfile&bg_color=00000000&title_color=0969DA&text_color=1F2328" alt="Most used languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nihonor&theme=github_dark">
+    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nihonor&theme=github" alt="Top languages by commit"/>
   </picture>
 </p>
 
